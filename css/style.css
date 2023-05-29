@@ -556,9 +556,12 @@ legend {
     margin-left: 5px;
 }
 
+.footer-category ul li a{
+    color: #ffffff;
+}
+
 .footer-category ul li a:visited {
     color: #ffffff;
-    transition: color 0.2s ease-in;
 }
 
 .footer-category ul li a:hover {
